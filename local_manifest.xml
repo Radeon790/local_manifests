@@ -2,7 +2,7 @@
 <manifest>
 
   <!-- Trees -->
-  <project path="device/realme/RMX1831" name="Radeon790/device_realme_RMX1831-1" remote="github" revision="eleven-ims" />
+  <project path="device/realme/RMX1831" name="RMX1831/android_device_realme_RMX1831" remote="github" revision="eleven-ims" />
   <project path="vendor/realme/RMX1831" name="RMX1831/android_vendor_realme_RMX1831" remote="github" revision="eleven-ims" />
   
 </manifest>
