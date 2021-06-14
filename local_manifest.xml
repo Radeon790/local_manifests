@@ -4,5 +4,6 @@
   <!-- Trees -->
   <project path="device/realme/RMX1831" name="Radeon790/device_realme_RMX1831" remote="github" revision="r11" />
   <project path="vendor/realme/RMX1831" name="StagOS-Devices/vendor_realme_RMX1831" remote="github" revision="r11" />
+  <project path="vendor/ANXCamera" name="dumpnine/vendor_ANXCamera" remote="github" revision="11" />
   
 </manifest>
